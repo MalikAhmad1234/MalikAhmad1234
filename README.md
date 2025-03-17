@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalikAhmad1234](https://github.com/MalikAhmad1234)
 
-- 💬 Ask me about **React.js , Node.js , Express.js , MongoDB, DynamoDB , Postgresql , FireBase**
+- 💬 Ask me about: **React.js , Node.js , Express.js , MongoDB, DynamoDB , Postgresql , FireBase**
 
-- 📫 How to reach me **umairusa7075@gmail.com**
+- 📫 How to reach me: **umairusa7075@gmail.com**
 
-- 📄 Know about my experiences [I have an experience working with React js , Node js , Express js with various Databases like MongoDB , DynamoDB , Postgresql , FirebaseDB](I have an experience working with React js , Node js , Express js with various Databases like MongoDB , DynamoDB , Postgresql , FirebaseDB)
+- 📄 Know about my experiences: I have an experience working with React js , Node js , Express js with various Databases like MongoDB , DynamoDB , Postgresql , FirebaseDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
