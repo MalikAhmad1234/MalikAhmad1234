@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malik Ahmad</h1>
 <h3 align="center">A Full Stack Developer I specialize in building full-stack applications using the following technologies:</h3>
 
-- 🔭 I’m currently working on **I’m currently working on a project to create a comprehensive web portal that serves both customers and admin users. This project involves building role-based authorization, implementing user authentication, and integrating Shopify APIs for e-commerce functionalities. Additionally, I am implementing payment gateway methods to ensure a smooth transaction process, aiming to deliver a seamless experience for both users and administrators.**
+- 🔭 **I’m currently working on a project to create a comprehensive web portal that serves both customers and admin users. This project involves building role-based authorization, implementing user authentication, and integrating Shopify APIs for e-commerce functionalities. Additionally, I am implementing payment gateway methods to ensure a smooth transaction process, aiming to deliver a seamless experience for both users and administrators.**
 
-- 👯 I’m looking to collaborate on **As a MERN stack developer, I’m looking to collaborate on exciting projects that involve React.js, Node.js, Express.js, MongoDB, DynamoDB, PostgreSQL, and Firebase. I’m passionate about building scalable web applications and enjoy working with teams to deliver high-quality solutions. I’m open to collaborating with clients who are looking for a dedicated developer to bring their ideas to life and create impactful digital experiences**
+- 👯 **As a MERN stack developer, I’m looking to collaborate on exciting projects that involve React.js, Node.js, Express.js, MongoDB, DynamoDB, PostgreSQL, and Firebase. I’m passionate about building scalable web applications and enjoy working with teams to deliver high-quality solutions. I’m open to collaborating with clients who are looking for a dedicated developer to bring their ideas to life and create impactful digital experiences**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalikAhmad1234](https://github.com/MalikAhmad1234)
 
